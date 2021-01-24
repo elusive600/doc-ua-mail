@@ -1,0 +1,136 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+<mj-breakpoint width="420px" />
+	<mj-style>
+@media only screen and (max-device-width: 420px) { 
+      .column td{
+        padding-bottom:8px !important;
+padding-top: 0px !important;
+    padding-right: 14px !important;
+    padding-bottom: 0px !important;
+    padding-left: 14px !important;
+      }
+.text-main div {
+        color: blue !important;
+      }}		
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#eee">
+    <mj-section padding=0px>
+      <mj-column>
+        <mj-image src="img/header_bg.gif" padding=0px></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding=0px padding-top=48px>
+      <mj-column padding=0px>
+        <mj-text css-class="text-main" align=center padding=0px padding-top=10px font-size=15px>Друзья,</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding=0px padding-bottom=7px>
+      <mj-column css-class="column" padding-left=24px padding-right=24px padding-top=0px padding-bottom=1px>
+        <mj-text font-size=15px line-height=1.3>По нашему 3-летнему опыту работы мы точно знаем: <b>после Нового года</b> большинство клиник Киева <b>поднимают цены.</b>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding=0px padding-top=1px padding-bottom=16px>
+      <mj-column css-class="column" padding-left=24px padding-right=34px padding-top=0px padding-bottom=1px>
+        <mj-text  css-class="text" font-size=15px line-height=1.3>Но только до 31 января <a href="">DOC.UA</a> <b>фиксирует цены на все медицинские услуги,</b> включая консультации и диагностику.</mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding=0px padding-bottom=2px>
+      <mj-column css-class="column" padding-left=24px padding-right=34px padding-top=0px padding-bottom=2px>
+        <mj-text css-class="text" font-size=15px line-height=1.3> У Вас <b>осталось всего 5 дней</b> - успейте записаться!</mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding=0px padding-bottom=2px>
+      <mj-column css-class="column" padding-left=24px padding-right=24px padding-top=0px>
+        <mj-text css-class="text" font-size=15px line-height=1.3> Для Вашего удобства, мы также собрали <b> лучшие предложения </b>от наших клиник-партнеров.</mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding-left=24px padding-right=24px padding-bottom=15px padding-top=5px >
+      <mj-column>
+        <mj-image src="img/i1.png" padding=15px  padding-bottom=8px>
+        </mj-image>
+        <mj-text font-size=15px line-height=1.25 padding-left=15px
+padding-right=15px
+padding-top=0px
+padding-bottom=45px> Прием <b>гинеколога + УЗИ</b> за <b>350 грн</b> вместо <b>650 грн</b>
+        </mj-text>
+        <mj-button background-color=#d05b4d border-radius=5px padding=0 width=245px><b>Записаться</b></mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image src="img/i2.png" padding=15px  padding-bottom=8px>
+        </mj-image>
+        <mj-text font-size=15px line-height=1.25 padding-left=15px
+padding-right=15px
+padding-top=0px
+padding-bottom=45px> Чистка зубов за <b>350 грн</b> вместо <b>700 грн</b>
+        </mj-text>
+        <mj-button background-color=#d05b4d border-radius=5px padding=0 width=245px><b>Записаться</b></mj-button>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding=0px padding-left=25px padding-right=25px padding-bottom=15px>
+      <mj-column padding=0>
+        <mj-image src="img/i3.png" padding=15px>
+        </mj-image>
+        <mj-text font-size=15px line-height=1.4 padding-left=15px
+padding-right=15px padding-top=0 padding-bottom=42px> Прием <b>кардиолога, ЭКГ и УЗИ</b> сердца <b>за 350 грн</b> вместо <b>900</b>
+        </mj-text>
+        <mj-button padding=0 background-color=#d05b4d border-radius=5px width=152px><b paddin>Записаться</b></mj-button>
+      </mj-column>
+      <mj-column padding=0>
+        <mj-image src="img/i4.png" padding=15px>
+        </mj-image>
+        <mj-text font-size=15px line-height=1.4 padding-left=15px
+padding-right=15px padding-top=0 padding-bottom=21px>Прием <b>невролога-</b> кандидата меднаук за <b>250 грн</b> вместо <b>420 грн</b>
+        </mj-text>
+        <mj-button padding=0 background-color=#d05b4d border-radius=5px width=152px><b paddin>Записаться</b></mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image src="img/i5.png" padding=15px>
+        </mj-image>
+        <mj-text font-size=15px line-height=1.4 padding-left=15px
+padding-right=15px padding-top=0 padding-bottom=21px><b>Гиникологическое УЗИ + УЗИ груди</b> за <b>350 грн</b> вместо <b>650 грн</b>
+        </mj-text>
+        <mj-button padding=0 background-color=#d05b4d border-radius=5px width=152px><b paddin>Записаться</b></mj-button>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding=0px>
+      <mj-column padding-left=24px padding-right=24px padding-top=0px padding-bottom=1px>
+        <mj-text font-size=15px line-height=1.5 letter-spacing=-0.1px padding-bottom=1px>Помните, что здоровье - превыше всего. Найти правильного врача Вам всегда поможет <a href="">DOC.UA</a>. </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding=0px>
+      <mj-column padding-left=24px padding-right=24px padding-top=0px padding-bottom=1px>
+        <mj-text font-size=15px line-height=1.3 padding-bottom=0><i>С уважением,</i>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding=0px>
+      <mj-column padding-left=24px padding-right=24px padding-top=0px padding-bottom=0px>
+        <mj-text font-size=15px line-height=1.3 padding-top=0 padding-bottom=42px><i>команда Сервиса поиска врачей <a href=""><b></b>DOC.UA</a></i>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding=0px>
+      <mj-column padding-top=0px padding-bottom=1px>
+        <mj-button padding-left=48px font-size=14px padding-right=48px background-color=#d05b4d border-radius=5px width=100%><b>Like DOC.UA на Facebook</b></mj-button>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
